@@ -12,7 +12,8 @@ This project implements comprehensive AI techniques to analyze and predict stude
 
 **Course:** AL2002 - Artificial Intelligence Lab  
 **Track:** Track C  
-**Institution:** [Your Institution]  
+**Institution:** FAST University  
+**Members:** Ans Rizwan (24F-0779), Khalil (24F-0525), Shaheer (24F-0785)
 **Academic Year:** 2024-2025
 
 ---
